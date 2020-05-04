@@ -1,2 +1,2 @@
 # hello-world
-daaad
+public class
